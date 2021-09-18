@@ -1,0 +1,26 @@
+input, textarea {
+    width: calc(100% - 18px);
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    outline: none;
+}
+
+input::placeholder {
+    color: #666;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background: var(--clr-background); 
+    font-size: 16px;
+    font-weight: 400;
+    color:black;
+}
+
+button:hover {
+    background: #ad6a06;
+}  
+
