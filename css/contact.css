@@ -24,3 +24,9 @@ button:hover {
     background: #ad6a06;
 }  
 
+.reset{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
